@@ -1,0 +1,7 @@
+choose the movie data.xlsx file. If you are not facing memoryerror issue you can increase the number of rows for analysis.
+
+content-based filtering, NLP techniques, and sentiment analysis based on genres, keywords, and plot overviews variables.
+
+choose any other variables if needed.
+
+change the movie name to check different cases.
